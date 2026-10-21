@@ -111,7 +111,16 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 ## 🚀 Мои продукты
 
 > Собственные проекты, которые я проектирую и развиваю целиком: архитектура, backend, frontend, тесты, CI и деплой.
-> Репозитории закрытые (коммерческая лицензия) — **код и демо покажу на собеседовании**.
+> Репозитории закрытые (коммерческая лицензия) — **код покажу на собеседовании**, а сами продукты можно открыть прямо сейчас 👇
+
+<div align="center">
+
+<a href="https://dobby-app.space/#study"><img src="https://img.shields.io/badge/Dobby-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-2C9AB7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://t.me/dobby_aibot?startapp=denis"><img src="https://img.shields.io/badge/Dobby-Telegram%20Mini%20App-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://studio.141-98-163-179.sslip.io/#contact"><img src="https://img.shields.io/badge/Architect%20OS-%D0%B4%D0%BB%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9-203a43?style=for-the-badge"/></a>
+<a href="https://141-98-163-179.sslip.io/share/architect/3Ityes2VXhlTAOKgvaEDiuBpSOMY9dVA"><img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%88%D0%BB%D1%8E%D0%B7%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%B0-0f2027?style=for-the-badge"/></a>
+
+</div>
 
 <table>
 <tr>
@@ -132,6 +141,8 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 
 `115 PR` · `150k+ строк`
 
+🌐 [dobby-app.space](https://dobby-app.space/#study) · 🤖 [Telegram](https://t.me/dobby_aibot?startapp=denis)
+
 </td>
 <td valign="top" width="33%">
 
@@ -149,6 +160,8 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 ![React Flow](https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square)
 
 `38 PR` · `24k строк`
+
+🌐 [Сайт для компаний](https://studio.141-98-163-179.sslip.io/#contact) · 📐 [Пример: платёжный шлюз маркетплейса](https://141-98-163-179.sslip.io/share/architect/3Ityes2VXhlTAOKgvaEDiuBpSOMY9dVA)
 
 </td>
 <td valign="top" width="33%">
@@ -172,11 +185,17 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 </tr>
 </table>
 
+### 🌐 Сайты
+
+| Сайт | Что это |
+|---|---|
+| [**ITERA**](https://dobbybobby.ru/itera/) | Сайт для предпринимателей |
+
 ### 🔓 Open source
 
 | Проект | Что это |
 |---|---|
-| [**Vibe Island**](https://github.com/Denis-VR/Vibe_iseland) · [vibeisland.fun](https://vibeisland.fun) | «Тихая высота» — живые горные пейзажи под реальную погоду, микшер звуков на Web Audio и музыка для фокуса. React 19 · TypeScript · Node.js · SQLite |
+| [**Vibe Island**](https://github.com/Denis-VR/Vibe_iseland) · [🌐 демо](https://denis-vr.github.io/Vibe_iseland/) | «Тихая высота» — живые горные пейзажи под реальную погоду, микшер звуков на Web Audio и музыка для фокуса. Лёгкую версию сделал за один вечер. React 19 · TypeScript · Node.js · SQLite |
 | [**xiaozhi-esp32**](https://github.com/Denis-VR/xiaozhi-esp32) | Русская версия прошивки MCP-чатбота для AI-роботов на ESP32 (C++) |
 | [**xiaozhi-esp32-server-java**](https://github.com/Denis-VR/xiaozhi-esp32-server-java) | Серверная часть для этих роботов на Java |
 | [**Backend-Map**](https://github.com/Denis-VR/Backend-Map) | Карта backend-разработки: паттерны, алгоритмы, схемы, вопросы к собеседованию |
