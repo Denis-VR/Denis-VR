@@ -23,6 +23,8 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 - 🏦 **Финтех** — корпоративная кредитная платформа крупного банка: Kafka + Camunda BPM, согласования по SLA, миграция Java 17 → 21
 - 📡 **Intech** — телеком-платформа на **200+ млн абонентов**: миграция 20 млн абонентов между биллингами без простоя, IVR-платформа, интеграции с AmoCRM / Bitrix24
 - 🤖 В свободное время строю собственные **AI-продукты** целиком — от архитектуры до деплоя — и модифицирую прошивки AI-роботов на ESP32
+- 🎤 **5 лет помогаю в организации IT-конференций [JUG Ru Group](https://jugru.org)**
+- 🎓 Вёл курс и проводил консультации в Иннополисе
 - ⚡ Быстро погружаюсь в незнакомый код: меня перебрасывали в смежные команды «усилением» — входил в legacy за 1–2 недели
 
 ---
@@ -128,7 +130,7 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Mini%20Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-`144 PR` · `150k+ строк`
+`115 PR` · `150k+ строк`
 
 </td>
 <td valign="top" width="33%">
@@ -146,7 +148,7 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![React Flow](https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square)
 
-`48 PR` · `24k строк`
+`38 PR` · `24k строк`
 
 </td>
 <td valign="top" width="33%">
@@ -164,7 +166,7 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 
-`32k строк`
+`25 PR` · `32k строк`
 
 </td>
 </tr>
@@ -184,7 +186,13 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Denis-VR&theme=transparent&hide_border=true&ring=2C9AB7&fire=2C9AB7&currStreakLabel=2C9AB7&locale=ru" />
+<img src="assets/activity.svg" alt="Коммиты, pull request и языки в личных проектах" width="100%"/>
+
+<sub>Статистика только по личным проектам, которые я веду в свободное время. Основная работа (финтех, телеком) идёт в корпоративных репозиториях и сюда не попадает.</sub>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Denis-VR&theme=transparent&hide_border=true&ring=2C9AB7&fire=2C9AB7&currStreakLabel=2C9AB7&locale=ru&disable_animations=true" />
 
 </div>
 
