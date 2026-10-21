@@ -77,22 +77,6 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 
 ## 🛠 Стек
 
-**Основной — Java backend**
-
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring,hibernate,maven,kafka,postgres,redis,elasticsearch,graphql&perline=10" />
-
-**Инфраструктура и наблюдаемость**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,gitlab,githubactions,prometheus,grafana&perline=10" />
-
-**Пет-проекты и AI**
-
-<img src="https://skillicons.dev/icons?i=go,python,ts,react,nextjs,fastapi,sqlite&perline=10" />
-
-<details>
-<summary><b>Полный список</b></summary>
-<br/>
-
 | Область | Технологии |
 |---|---|
 | Языки | Java 11 / 17 / 21, Kotlin, Go, Python, TypeScript, SQL |
@@ -104,84 +88,61 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 | DevOps | Docker, Kubernetes, GitLab CI, TeamCity, Linux |
 | Наблюдаемость | Prometheus, Micrometer, Grafana, Jaeger, ELK, Logstash |
 
-</details>
-
 ---
 
 ## 🚀 Мои продукты
 
-> Собственные проекты, которые я проектирую и развиваю целиком: архитектура, backend, frontend, тесты, CI и деплой.
-> Репозитории закрытые (коммерческая лицензия) — **код покажу на собеседовании**, а сами продукты можно открыть прямо сейчас 👇
-
-<div align="center">
-
-<a href="https://dobby-app.space/#study"><img src="https://img.shields.io/badge/Dobby-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-2C9AB7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://t.me/dobby_aibot?startapp=denis"><img src="https://img.shields.io/badge/Dobby-Telegram%20Mini%20App-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://studio.141-98-163-179.sslip.io/#contact"><img src="https://img.shields.io/badge/Architect%20OS-%D0%B4%D0%BB%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9-203a43?style=for-the-badge"/></a>
-<a href="https://141-98-163-179.sslip.io/share/architect/3Ityes2VXhlTAOKgvaEDiuBpSOMY9dVA"><img src="https://img.shields.io/badge/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D0%BB%D0%B0%D1%82%D1%91%D0%B6%D0%BD%D1%8B%D0%B9%20%D1%88%D0%BB%D1%8E%D0%B7%20%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81%D0%B0-0f2027?style=for-the-badge"/></a>
-
-</div>
+Собственные проекты, которые я проектирую и развиваю целиком: архитектура, backend, frontend, тесты, CI и деплой.
+Репозитории закрытые — код покажу на собеседовании, а сами продукты можно открыть по ссылкам.
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<th width="33%">🧩 Dobby</th>
+<th width="33%">🏛 Architect OS</th>
+<th width="33%">✨ Aurora</th>
+</tr>
+<tr>
+<td valign="top">Экосистема Telegram Mini Apps на одном аккаунте: обучение, фитнес, карьера и другие модули</td>
+<td valign="top">Студия проектирования архитектуры с ИИ: схема, ADR, ревью и задачи для AI-агентов</td>
+<td valign="top">Self-hosted AI-ассистент: почта, календарь, Telegram и задачи в одной панели</td>
+</tr>
+<tr>
+<td valign="top">
 
-### 🧩 Dobby
-**Экосистема Telegram Mini Apps** на едином аккаунте: English, Fitness, Cooking, Career, Work и другие модули поверх общего Core — XP, стрики, достижения, биллинг, AI.
-
-- Go backend: API + worker, модульные домены
-- Telegram-авторизация, биллинг: Stars и Crypto Pay
-- ~100 миграций PostgreSQL, 400+ тестовых файлов
-- ADR, доменная модель, события
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Telegram](https://img.shields.io/badge/Mini%20Apps-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-
-`115 PR` · `150k+ строк`
-
-🌐 [dobby-app.space](https://dobby-app.space/#study) · 🤖 [Telegram](https://t.me/dobby_aibot?startapp=denis)
+- Go: API + worker
+- Telegram-авторизация, биллинг
+- XP, стрики, достижения
 
 </td>
-<td valign="top" width="33%">
+<td valign="top">
 
-### 🏛 Architect OS
-**Студия проектирования архитектуры с ИИ.** Описываешь систему в чате — получаешь схему, ADR, ревью и пакет задач для AI-агентов.
-
-- Анализ готового репозитория без запуска: Compose, K8s, Terraform, манифесты
-- ~50 правил поиска уязвимостей и SPOF
-- Оценка RPS, узких мест и доступности
-- 9 LLM-провайдеров, учёт токенов и стоимости
-
-![Next.js](https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![React Flow](https://img.shields.io/badge/React%20Flow-FF0072?style=flat-square)
-
-`38 PR` · `24k строк`
-
-🌐 [Сайт для компаний](https://studio.141-98-163-179.sslip.io/#contact) · 📐 [Пример: платёжный шлюз маркетплейса](https://141-98-163-179.sslip.io/share/architect/3Ityes2VXhlTAOKgvaEDiuBpSOMY9dVA)
+- Анализ репозитория без запуска
+- ~50 правил: уязвимости, SPOF
+- Оценка RPS и доступности
 
 </td>
-<td valign="top" width="33%">
+<td valign="top">
 
-### ✨ Aurora
-**Self-hosted AI-ассистент.** Почта, календарь, Telegram, задачи и напоминания в одной панели. Поручения обычными словами, подтверждение перед действиями.
-
-- Gmail, Calendar, Notion, Slack, Linear, GitHub и ещё 15+ интеграций
-- MCP, субагенты с узкими правами
-- Планировщик, GTD-доска, Telegram-бот
-- Docker, деплой на VPS одной командой
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
-
-`25 PR` · `32k строк`
+- 20+ интеграций, MCP
+- Субагенты с узкими правами
+- Деплой на VPS одной командой
 
 </td>
+</tr>
+<tr>
+<td valign="top"><sub>Go · React · PostgreSQL</sub></td>
+<td valign="top"><sub>Next.js · TypeScript · SQLite</sub></td>
+<td valign="top"><sub>Python · FastAPI · Docker</sub></td>
+</tr>
+<tr>
+<td valign="top"><b>115</b> PR · <b>150k+</b> строк</td>
+<td valign="top"><b>38</b> PR · <b>24k</b> строк</td>
+<td valign="top"><b>25</b> PR · <b>32k</b> строк</td>
+</tr>
+<tr>
+<td valign="top"><a href="https://dobby-app.space/#study">Сайт</a> · <a href="https://t.me/dobby_aibot?startapp=denis">Telegram</a></td>
+<td valign="top"><a href="https://studio.141-98-163-179.sslip.io/#contact">Сайт</a> · <a href="https://141-98-163-179.sslip.io/share/architect/3Ityes2VXhlTAOKgvaEDiuBpSOMY9dVA">Пример: платёжный шлюз</a></td>
+<td valign="top"><sub>демо по запросу</sub></td>
 </tr>
 </table>
 
