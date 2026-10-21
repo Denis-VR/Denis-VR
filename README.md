@@ -176,6 +176,7 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 
 | Проект | Что это |
 |---|---|
+| [**Vibe Island**](https://github.com/Denis-VR/Vibe_iseland) · [vibeisland.fun](https://vibeisland.fun) | «Тихая высота» — живые горные пейзажи под реальную погоду, микшер звуков на Web Audio и музыка для фокуса. React 19 · TypeScript · Node.js · SQLite |
 | [**xiaozhi-esp32**](https://github.com/Denis-VR/xiaozhi-esp32) | Русская версия прошивки MCP-чатбота для AI-роботов на ESP32 (C++) |
 | [**xiaozhi-esp32-server-java**](https://github.com/Denis-VR/xiaozhi-esp32-server-java) | Серверная часть для этих роботов на Java |
 | [**Backend-Map**](https://github.com/Denis-VR/Backend-Map) | Карта backend-разработки: паттерны, алгоритмы, схемы, вопросы к собеседованию |
