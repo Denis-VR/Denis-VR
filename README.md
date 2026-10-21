@@ -191,10 +191,6 @@ Senior Java-разработчик с **6+ годами** опыта проек�
 
 <sub>Статистика только по личным проектам, которые я веду в свободное время. Основная работа (финтех, телеком) идёт в корпоративных репозиториях и сюда не попадает.</sub>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Denis-VR&theme=transparent&hide_border=true&ring=2C9AB7&fire=2C9AB7&currStreakLabel=2C9AB7&locale=ru&disable_animations=true" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
